@@ -1,0 +1,16 @@
+url: ~
+template:
+  bootstrap: 5
+  bootswatch: lux
+  bslib:
+    bg: "#202123"
+    fg: "#B8BCC2"
+    primary: "#306cc9"
+    base_font: {google: "Roboto"}
+    heading_font: {google: "Roboto Slab"}
+    code_font: {google: "JetBrains Mono"}
+  navbar:
+    structure:
+      left:  [intro, reference, articles, tutorials, news]
+      right: [search, github]
+
